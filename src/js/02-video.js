@@ -18,5 +18,5 @@ function pageReload(event) {
   if (!storageValue) {
     return;
   }
-  player.setCurrentTime(localStorage.getItem(LOCALSTORAGE_KEY));
+  player.setCurrentTime(storageValue);
 }
