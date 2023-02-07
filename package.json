@@ -2,10 +2,17 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
+<<<<<<< Updated upstream
   "homepage": "https://MarinaMostova.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08.git/"
+=======
+  "homepage": "https://github.com/MarinaMostova/goit-js-hw-08",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+>>>>>>> Stashed changes
   },
   "repository": {
     "type": "git",
@@ -15,7 +22,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/MarinaMostova/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
@@ -28,6 +35,7 @@
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
+
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
